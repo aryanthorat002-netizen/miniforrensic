@@ -1,0 +1,25 @@
+timestamp,user,ip,event,status
+2024-01-15 00:12:03,jdoe,192.168.1.10,login,failed
+2024-01-15 00:45:22,asmith,192.168.1.11,login,success
+2024-01-15 01:03:14,jdoe,192.168.1.10,login,failed
+2024-01-15 01:32:10,rking,10.0.0.5,login,failed
+2024-01-15 02:00:01,jdoe,192.168.1.10,login,failed
+2024-01-15 02:15:44,asmith,192.168.1.11,file_access,success
+2024-01-15 02:47:12,mchen,10.0.0.9,login,success
+2024-01-15 03:05:30,rking,10.0.0.5,login,failed
+2024-01-15 03:22:18,jdoe,192.168.1.10,login,success
+2024-01-15 04:10:55,unknown,203.0.113.7,login,failed
+2024-01-15 04:33:41,mchen,10.0.0.9,file_delete,success
+2024-01-15 05:02:09,asmith,192.168.1.11,login,failed
+2024-01-15 05:47:27,nitin,203.0.113.7,login,failed
+2024-01-15 06:15:12,rking,10.0.0.5,login,success
+2024-01-15 07:00:00,mchen,10.0.0.9,login,success
+2024-01-15 08:12:33,jdoe,192.168.1.10,file_access,success
+2024-01-15 09:05:19,shreyash,203.0.113.8,login,failed
+2024-01-15 10:22:41,asmith,192.168.1.11,login,success
+2024-01-15 11:47:02,rking,10.0.0.5,file_delete,failed
+2024-01-15 13:30:15,mchen,10.0.0.9,login,failed
+2024-01-15 14:55:38,jdoe,192.168.1.10,login,success
+2024-01-15 22:10:04,nikita,203.0.113.9,login,failed
+2024-01-15 23:59:59,asmith,192.168.1.11,login,success
+2026-09-02 13:47:04,naman,101.402.69.69,login,failed
